@@ -1,0 +1,14 @@
+#!/bin/bash
+sudo systemctl enable nginx
+sudo systemctl stop nginx
+sudo systemctl start nginx
+
+echo "$DEPLOYMENT_GROUP_NAME"
+if [ "$DEPLOYMENT_GROUP_NAME" == "FOREXAPPDEPLOYMENTGROUPNAME" ];
+then
+ sudo aws ecr get-login-password --region ap-south-1 | sudo docker login --username AWS --password-stdin 678678708072.dkr.ecr.ap-south-1.amazonaws.com/devdocker
+ sudo docker stop APP_DEV_DOCKER_IMAGES || true && sudo docker rm APP_DEV_DOCKER_IMAGES || true
+ sudo docker system prune -a -f
+ sudo docker pull 678678708072.dkr.ecr.ap-south-1.amazonaws.com/devdocker:APP_DEV_DOCKER_IMAGES
+ sudo docker run --name APP_DEV_DOCKER_IMAGES -p 8081:80 -e environment=dev -d 678678708072.dkr.ecr.ap-south-1.amazonaws.com/devdocker:APP_DEV_DOCKER_IMAGES
+fi

@@ -1,0 +1,93 @@
+.heading {
+    border-bottom: 3px solid black;
+    color: black;
+    height: 25px;
+}
+
+tr {
+    border: 1px solid #070707;
+}
+table, td, tr {
+    border: 1px solid black;
+    background: transparent;
+}
+input {
+    background: transparent;
+}
+
+td {
+    border-right: 1px solid #070707;
+    
+}
+
+.wtd {
+    width: 441px;
+}
+
+.wtd1 {
+    width: 600px;
+}
+
+.wtd1 input {
+    border: none;
+}
+
+.wtd2 {
+    width: 900px;
+}
+
+.wtd3 input{
+  width: 90px !important;
+  border: none;
+}
+
+span input {
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+.spli {
+    border-bottom: 1px solid black !important;
+}
+
+.ins {
+    border: none;
+    border-bottom: 1px solid black;
+    width: 400px;
+}
+
+.wtd7 input{
+    width: 100px !important;
+    border: none;
+}
+
+
+.wtd8 {
+    width: 160px !important;
+}
+
+.ind {
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+.customTable {
+    display: grid;
+    grid-template-columns: auto auto;
+    width: 400px;
+    border: 1px solid black;
+    padding: 0 !important;
+  }
+  
+.innerLeftRows {
+border-bottom: 1px solid black;
+border-right: 1px solid black;
+}
+
+.innerRightRows {
+border-bottom: 1px solid black;
+}
+
+.bottomLeftRow {
+border-right: 1px solid black;
+}

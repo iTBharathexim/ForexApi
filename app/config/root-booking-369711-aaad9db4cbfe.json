@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "root-booking-369711",
+  "private_key_id": "aaad9db4cbfeea310aa6f450ef82d38dc0ce87fa",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDEdTk3YgikEWT2\nf64Q6A4wpqFNi52RfoTLaTcM+WL+B1Boo4O4pHBoUP78pUpZ1dlhKJcPL/yYOzOE\n6AH1gV5SF2VvJem9JrLz/qX1vS5lrLZcY2Ui33jGFY6FuKwMj6di4QV+Wulx2EI0\n1UN3Zs6STI5rbEhAXQEI9zOc1sAo4fZdOqKV/nqTxI+0kxIBCAF4aEVXaOtYDmrU\npkmG1Pd9N4tHI/rSwwdqHu+m/lLjHaP5vzHODUZA3uWqblacdeNYxVoLbdRLliBE\nHKu0pt/Y+mlarbmTXC1E2XWtlMEQo+/UzMAnrR77URe6IsJUEz5pVR/S1UWwf/UY\n1UPXVQ29AgMBAAECggEADbvaJ56BVyLmKXtMil8Gmu0TKq4fckvjcarlz9DhVDvj\nqaUAsNhCCXDcGoJdm8Eg5LNnOAcVQ/kjhV+Iv4ZvNxLuouIGIJSDfx4msPKsOyxj\nRTsnl1QDB+n64CtET859F6L+dNJbLnu9SR89i6vSthSHAkh8Fo/J4jwRzh2PKmxe\nFPRNmmTvmXcTpUZxcbcjE0MnC/g8QrsC+3G/kZE8I5SlS/0fWz+omTri/V7zi3AO\n6rdQgn5ZFDUyVc64Gb7UGWB/S3iG+EidrInmjBoJ29IumQJPzWpSyI97Km+aM+18\nwfAwsB3BWH12wgmC7WHN50G8twpcI6jF8WD2KMEpGwKBgQDv5o7sCKaICVxJd2GE\nT+BK4AeWbFlB6frD/yTt7SSRPOEpbjVWfaPQvCizdBMfRhHvCFlHMcru5rZ6YwFu\nP+HcfSCy924COMyJx58/84jx1cocuMezu5gfzJnCRSf8fC53ZtcICIbDNJCUKqVG\n2U3pYD+02N05F6hOTqtNKwY7ewKBgQDRpFQfczDjy3AsvVB4FjQ2pIvNj1LQIGus\nggpPtXiJ94q3wCfBux/WNtxviQ5opZbSChxXhnJ5oSl6cwjICfC1Ehb+wDGjXvFf\n4sveBcHDVJIzQO3iUgR3sry2dTSo5CgZOC5mN4sUKAtY3tkmfywS5tnpGl+UPLTO\ne1OzlK6aJwKBgQDCgZy/owPiqDQ7HJ/kNx8TljCQtaho2NyIrQW0IuHTIBkvDjwQ\ntC1twCD/3sziPl2sAIjiQGzY5hZthHhUe1cU/h7U++glxQeRblif8UTHTx9fyjGg\neCkPH0RLTubsv4KtLKSLzt30x1mxyCHZH7cb0P3WEz7KW3QKiZ46IvgaoQKBgCiM\nZEkA+r/UpYnBxEK16Lt48CF+S0I+QxVGwb/RFdN5sbcAz6/FBc9lJRXdqI/NF3Lg\nycKUGqgz59XrUhN++LPNH+1+NxumTYGCWHRFIMkrHmwTbu+LdZnBVIbl/J1+I9Nc\n7nyO2bO4WxmBYPb1Og0d4aAYncwKQd5+NB5T78GZAoGASPeKTb46l1fWCEmE7myl\nzzbTV/ruMGBsbrSaPELtOoJdoUbuySLrlfD2akd/MTYJYBtRTB4RxGq90PLGLTq7\nldZ/JAK/+++TPDsirdE0zO+dwOSROQJd31yrIKb/jMZbYiZvqomm5eQyBoBJwm9Z\nQiRnU5kQIwsDLJUlkgM8I3k=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bharathexim-service@root-booking-369711.iam.gserviceaccount.com",
+  "client_id": "112566061172835386804",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bharathexim-service%40root-booking-369711.iam.gserviceaccount.com"
+}
